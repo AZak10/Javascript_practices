@@ -56,4 +56,5 @@ console.log(arrayOfName[2])
 //     console.log("Person not selfish")
 // } else {
 //     console.log("Unknow")
-// }
+// } 
+// hi

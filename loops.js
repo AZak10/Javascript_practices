@@ -65,10 +65,26 @@
 
 
 
-for (let index = 0; index < 20; index++) {
-    if(index == 4) {
-        return;
-    }
-   console.log(index)
+// for (let index = 0; index < 20; index++) {
+    // if(index == 4) {
+     //  return;
+    // }
+   // console.log(index)
     
+// }
+
+
+
+let multiply = (num1,num2) => num1*num2
+
+let sum1 = multiply(20,30)
+console.log(sum1)
+
+for (;;){
+    console.log("hellow")
+}
+
+
+while (true) {
+    console.log("infinite");
 }
